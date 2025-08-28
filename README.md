@@ -55,7 +55,7 @@ This dashboard transforms **raw store sales data** into **actionable insights** 
 ![Overview Page](Overview.png)  
 
 ### 🔹 Map Visual (Regional Sales Distribution)  
-![Map Visual](assets/Map-Visual.png)  
+![Map Visual](Map-Visual.png)  
 
 ### 🔹 Trends Visual (Sales Over Time)  
 ![Trends Visual1](Sale-by-Profit.png)  
