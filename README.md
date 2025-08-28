@@ -66,12 +66,42 @@ This dashboard transforms **raw store sales data over 1 lakh entries**  into **a
 
 
 ## 🚀 Features
-- **Dynamic filters** → Drill down by category, region, or customer segment  
-- **Visual storytelling** → KPIs, charts & insights designed for decision-making  
-- **Interactive reports** → Easy navigation between overview & details  
-- **Optimized star schema** → Fast and efficient data model  
+The ElectroHub Store Analysis dashboard comes with **multiple report pages and visuals** designed to answer different business questions:  
 
----
+### 🔹 **Sales Overview**
+- Total revenue, profit, and transaction KPIs  
+- Monthly and yearly sales trends  
+- Comparison vs. previous periods  
+
+### 🔹 **Regional & Store-Level Performance**
+- Map visual to track sales by geography 🌍  
+- Drill-down by region, state, or store location  
+- Top-performing vs. underperforming branches  
+
+### 🔹 **Product Analysis**
+- Category-wise contribution to revenue  
+- Best-selling and least-selling products  
+- Price vs. sales volume analysis  
+
+### 🔹 **Customer Insights**
+- New vs. returning customer trends 👥  
+- Customer segmentation by demographics & purchase history  
+- Loyalty & repeat purchase patterns  
+
+### 🔹 **Profitability Analysis**
+- Gross margin by product category  
+- Discount vs. profit impact  
+- Top 5 high-margin and low-margin items  
+
+### 🔹 **Trends & Forecasting**
+- Sales trend lines over time ⏳  
+- Seasonality detection (peak months & slow months)  
+- Basis for future demand forecasting  
+
+### 🔹 **Interactive Filters**
+- Dynamic slicers for category, region, store, and time period  
+- Custom drill-through reports for deeper analysis  
+- Bookmarks for quick storytelling presentations  
 
 ## 🛠 Getting Started
 
