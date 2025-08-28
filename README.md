@@ -52,16 +52,14 @@ This dashboard transforms **raw store sales data** into **actionable insights** 
 ## 📸 Dashboard Preview
 
 ### 🔹 Overview Page  
-![Overview Page](assets/overview.png)  
-
-### 🔹 Detailed Insights Page  
-![Details Page](assets/details.png)  
+![Overview Page](Overview-.png)  
 
 ### 🔹 Map Visual (Regional Sales Distribution)  
-![Map Visual](assets/map.png)  
+![Map Visual](assets/Map-Visual.png)  
 
 ### 🔹 Trends Visual (Sales Over Time)  
-![Trends Visual](assets/trends.png)  
+![Trends Visual1](Sale-by-Profit.png)  
+![Trends Visual1](Sales-Trends-by-period.png)  
 
 > 📝 Save your screenshots inside an `assets/` folder in your repo with these names:  
 > `overview.png`, `details.png`, `map.png`, `trends.png`  
