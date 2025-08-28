@@ -6,7 +6,7 @@
 
 I accomplished something remarkable with my latest **Power BI project for ElectroHub** 🚀  
 
-This dashboard transforms **raw store sales data** into **actionable insights** that empower strategic decisions.  
+This dashboard transforms **raw store sales data over 1 lakh entries**  into **actionable insights** that empower strategic decisions.  
 
 ---
 
