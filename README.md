@@ -62,7 +62,7 @@ This dashboard transforms **raw store sales data** into **actionable insights** 
 ![Trends Visual2](Sales-Trends-by-Period.png) 
 
 ### 🔹 Table Visual
-![Table Visual1](Sales-Trends-by-Period.png) 
+![Table Visual1](Table.png) 
 
 
 ## 🚀 Features
