@@ -59,7 +59,10 @@ This dashboard transforms **raw store sales data** into **actionable insights** 
 
 ### 🔹 Trends Visual (Sales Over Time)  
 ![Trends Visual1](Sale-by-Profit.png)  
-![Trends Visual1](Sales-Trends-by-Period.png)  
+![Trends Visual2](Sales-Trends-by-Period.png) 
+
+### 🔹 Table Visual
+![Table Visual1](Sales-Trends-by-Period.png) 
 
 
 ## 🚀 Features
