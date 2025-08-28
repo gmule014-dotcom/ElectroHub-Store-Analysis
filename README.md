@@ -61,10 +61,6 @@ This dashboard transforms **raw store sales data** into **actionable insights** 
 ![Trends Visual1](Sale-by-Profit.png)  
 ![Trends Visual1](Sales-Trends-by-Period.png)  
 
-> 📝 Save your screenshots inside an `assets/` folder in your repo with these names:  
-> `overview.png`, `details.png`, `map.png`, `trends.png`  
-
----
 
 ## 🚀 Features
 - **Dynamic filters** → Drill down by category, region, or customer segment  
